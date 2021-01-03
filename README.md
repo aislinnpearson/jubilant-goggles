@@ -1,2 +1,2 @@
 # jubilant-goggles
-Life blog
+Life
